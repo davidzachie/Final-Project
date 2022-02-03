@@ -4,7 +4,7 @@
 
 #### In this project I took the initiative to work on Data Visualization (Tableau), Data Analysis, and some Database works since I felt those were my strengths and would help me to maximize my contributions to the team in this project.
 
-#### However, I also voiced my ideas, opinions, and recommendations on other parts of the projects.  I was actively involved in group meetings and discussions, reviewing deliverables, and editing presentation materials.  At the same time, I was very opened to team members' ideas and suggestions about my work and deliverables.
+#### However, I also voiced my ideas, opinions, and recommendations on other parts of the project.  I was actively involved in group meetings and discussions, reviewing deliverables, and editing presentation materials.  At the same time, I was very opened to other team members' ideas and suggestions about my work and deliverables.
 
 #### My greatest personal challenge in this project was to try to remember the vast amount of course materials that were taught during the six months period of this boot camp program.  I overcame this challenge by dilligently revisiting and reviewing almost every single module that I have learned and applying them in this project.
 

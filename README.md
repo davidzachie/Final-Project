@@ -9,12 +9,18 @@
 
 ## **Team Assessment**
 
+### Team communication channels:
+#### - Zoom calls
+#### - Slack
+#### - Mobile and Emails
 
+#### Throughout this project team members have exhibited the ability to work productively as a group.  We were able to work independently and as a team effectively.  Every one was proactive in communicating their ideas and recommendations but still being respectful and receptive towards others' opinions and suggestions.  Our team was also very easy going in dividing work loads, assigning responsibilities, and reaching agreements in scheduling meetings and deadlines.
 
+#### In my opinion, our team did not encounter issues in communication protocol since every one was very easy to work with.  I joined this group not only because of the projeact idea but mainly because of the team members who I preceived to be knowledgeable, hard working, and easy going.  To me, cohesiveness, knowledge, work ethic, and effective team work are important factors to ensure the success and completion of a project.
 
 ## **Summary of the Project**
 
-### The link for the project can be seen here: [SF airbnb Project](https://github.com/nrp1284/sf_abnb_listings)
+### The link for the project can be seen on this link: [SF airbnb Project](https://github.com/nrp1284/sf_abnb_listings)
 
 ### **The purpose of this project** 
 #### To analyze San Francisco Airbnb listings and evaluating pricing, popularity, features and accommodations by listing.
@@ -37,7 +43,7 @@
 ####     - Entertainment and nightlife.
 ####     - Safety/security.
 
-### The link to Tableau Dashboard can be seen here: [Tableau Dashboard](https://public.tableau.com/app/profile/david.nathanael/viz/SFAirBNBProject/SFairbnbStory?publish=yes)
+### The link to Tableau Dashboard can be seen on this link: [Tableau Dashboard](https://public.tableau.com/app/profile/david.nathanael/viz/SFAirBNBProject/SFairbnbStory?publish=yes)
 
 #### Machine Learning:
 ####     - Gradient boosting model was able to predict best 80% of the variation in price with an RMSE of 0.17.

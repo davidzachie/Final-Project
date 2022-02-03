@@ -21,7 +21,7 @@
 
 ## **Summary of the Project**
 
-### The link for the project can be seen on this link: [SF airbnb Project](https://github.com/nrp1284/sf_abnb_listings)
+### Project GitHub can be seen on this link: [SF airbnb Project](https://github.com/nrp1284/sf_abnb_listings)
 
 ### **The purpose of this project** 
 #### To analyze San Francisco Airbnb listings and evaluating pricing, popularity, features and accommodations by listing.
@@ -44,7 +44,7 @@
 ####     - Entertainment and nightlife.
 ####     - Safety/security.
 
-### The link to Tableau Dashboard can be seen on this link: [Tableau Dashboard](https://public.tableau.com/app/profile/david.nathanael/viz/SFAirBNBProject/SFairbnbStory?publish=yes)
+### San Francisco airbnb Market Profile Dashboard and Story can be seen on this link: [Tableau Dashboard](https://public.tableau.com/app/profile/david.nathanael/viz/SFAirBNBProject/SFairbnbStory?publish=yes)
 
 #### Machine Learning:
 ####     - Gradient boosting model was able to predict best 80% of the variation in price with an RMSE of 0.17.

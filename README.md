@@ -2,7 +2,7 @@
 
 ## **Self Assessment**
 
-#### In this project I took the initiative to work on Data Visualization (Tableau), analysis, and some Database works since I felt those were my strengths and would help me to maximize my contributions to the team in this project.
+#### In this project I took the initiative to work on Data Visualization (Tableau), Data Analysis, and some Database works since I felt those were my strengths and would help me to maximize my contributions to the team in this project.
 
 #### However, I also voiced my ideas, opinions, and recommendations on other parts of the projects.  I was actively involved in group meetings and discussions, reviewing deliverables, and editing presentation materials.  At the same time, I was very opened to team members' ideas and suggestions about my work and deliverables.
 
